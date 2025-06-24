@@ -1,5 +1,5 @@
 # personal_web
-Berikut Fitur” yg saya kembangkan
+Berikut ada Fitur” yg saya kembangkan
 Login Multiuser + Hak Akses
 Role: Admin (full access), Editor (artikel saja), Viewer (read-only)
 Fitur: Manajemen user, pembatasan akses halaman
@@ -25,3 +25,4 @@ Ditampilkan dalam bentuk list atau kalendar.
 Integrasi Al Chat (Experimental)
 Tambahkan chatbot Al ringan untuk menjawab FAQ pengunjung
 Atau fitur "Tanya Admin" via form
+Btw Hasil tampilan screenshot nya hanya sebagian yang di ss hehe
