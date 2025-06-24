@@ -25,4 +25,5 @@ Ditampilkan dalam bentuk list atau kalendar.
 Integrasi Al Chat (Experimental)
 Tambahkan chatbot Al ringan untuk menjawab FAQ pengunjung
 Atau fitur "Tanya Admin" via form
+
 Btw Hasil tampilan screenshot nya hanya sebagian yang di ss hehe
