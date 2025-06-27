@@ -1,8 +1,11 @@
 Sistem ini merupakan “aplikasi web personal” yang dirancang untuk menampilkan dan mengelola informasi pribadi seperti artikel, galeri gambar, dan deskripsi "Tentang Saya". Sistem ini dibangun menggunakan:
 
 Bahasa Pemrograman: PHP
+
 Database: MySQL
+
 Tampilan Antarmuka:Tailwind CSS (untuk desain yang responsif dan modern)
+
 Server lokal: Apache/XAMPP
 
 1. Aplikasi ini terdiri dari dua bagian utama:
@@ -14,9 +17,13 @@ Server lokal: Apache/XAMPP
 
 2. Halaman Admin (Back End)
    Hanya bisa diakses setelah login, berfungsi untuk:
+   
     Mengelola artikel (tambah, edit, hapus)
+   
     Mengelola galeri gambar
+   
     Mengelola konten "Tentang Saya"
+   
     Melihat statistik jumlah konten
 
 Fitur-Fitur yang saya gunakan dan dikembangkan:
